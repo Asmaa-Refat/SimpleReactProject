@@ -1,3 +1,11 @@
+Concepts that has been applied in this simple project:
+- use of States
+- controlled inputs 
+- passing props down to components
+
+# Package used :
+- colornames : gets the hex of the color, command : npm i colornames -S
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
