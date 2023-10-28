@@ -1,3 +1,5 @@
+Inspired by --> Dave Gray
+--
 Concepts that has been applied in this simple project:
 - use of States
 - controlled inputs 
